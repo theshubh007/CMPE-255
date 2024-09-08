@@ -44,7 +44,7 @@ This app was developed using GitHub Copilot as an AI pair programmer. Copilot as
 
 For a detailed walkthrough of the app and its features, check out our demo video:
 
-[Expense Splitter App Demo](https://youtu.be/7BySjQ6l7Q8)
+[Expense Splitter App Development - youtube link](https://youtu.be/7BySjQ6l7Q8)
 
 ## Contributing
 
