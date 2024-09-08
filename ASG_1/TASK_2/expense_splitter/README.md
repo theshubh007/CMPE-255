@@ -1,4 +1,4 @@
-# AI pari programming:  Expense Splitter App using github copilot
+# AI pair programming:  Expense Splitter App using github copilot
 
 ## Overview
 
