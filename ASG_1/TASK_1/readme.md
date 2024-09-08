@@ -1,4 +1,6 @@
-# CMPE 255 - Assignment 1: Python
+# CMPE 255 - Assignment 1: 
+
+#TASK 1: Code with Python
 
 ## Overview
 
