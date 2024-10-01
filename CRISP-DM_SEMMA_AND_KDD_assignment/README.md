@@ -1,4 +1,4 @@
-## Data Science Methodologies Project
+## Data Science CRISP-DM/SEMMA/KDD Methodologies Project
 This repository contains three comprehensive data science projects, each following a different methodology: CRISP-DM, SEMMA, and KDD. The projects demonstrate the application of these methodologies to solve real-world problems using various datasets.
 
 ### Project Structure
