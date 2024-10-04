@@ -13,8 +13,8 @@ The repository is organized into three main directories, each corresponding to a
 * C. Created Medium Articles
 * D. Created Research Papers
 
-
-### 1. CRISP-DM: Employee Classification
+<br><br>
+## 1. CRISP-DM: Employee Classification
 This project uses the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to classify employees based on various attributes. The goal is to predict employee attrition and identify factors that contribute to employee retention.
 #### Dataset:  https://www.kaggle.com/datasets/tawfikelmetwally/employee-dataset/data
 #### Medium Article: https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset
@@ -23,8 +23,8 @@ This project uses the CRISP-DM (Cross-Industry Standard Process for Data Mining)
 * Follows all six phases of CRISP-DM
 * Employs multiple classification algorithms
 * Provides insights into employee attrition factors.
-
-### 2. SEMMA: Restaurant Cuisine Classification
+<br><br>
+## 2. SEMMA: Restaurant Cuisine Classification
 This project applies the SEMMA (Sample, Explore, Modify, Model, Assess) methodology to classify restaurant cuisines based on menu items and other characteristics.
 Dataset: Restaurant dataset (source not specified in the notebook)
 #### Dataset: https://www.kaggle.com/code/dhruvb99/resturant-rating-predictor
@@ -34,8 +34,8 @@ Dataset: Restaurant dataset (source not specified in the notebook)
 * Demonstrates text preprocessing techniques
 * Uses various classification algorithms
 * Provides insights into cuisine trends and patterns
-
-### 3. KDD: Spam Email Classification
+<br><br>
+## 3. KDD: Spam Email Classification
 This project utilizes the KDD (Knowledge Discovery in Databases) process to classify emails as spam or non-spam (ham).
 #### Dataset: https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset
 #### Medium Article: https://medium.com/@shubhamkothiya007/restaurant-cuisine-classification-a-data-science-approach-using-semma-methodology-4e65d1547aef
