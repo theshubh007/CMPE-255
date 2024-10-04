@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Image Compressor</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: #f0f0f0;
+      }
+      .container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+      .container input[type="file"] {
+        margin-bottom: 10px;
+      }
+      .container button {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      .container button:hover {
+        background-color: #0056b3;
+      }
+      .results {
+        margin-top: 20px;
+      }
+      .results p {
+        margin: 5px 0;
+      }
+      .results a {
+        color: #007bff;
+        text-decoration: none;
+      }
+      .results a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Image Compressor</h1>
+      <input type="file" id="fileInput" accept="image/jpeg, image/png" />
+      <button onclick="compressImage()">Compress Image</button>
+      <div class="results" id="results"></div>
+    </div>
+
+    <script>
+      async function compressImage() {
+        const fileInput = document.getElementById("fileInput")
+        const resultsDiv = document.getElementById("results")
+        resultsDiv.innerHTML = ""
+
+        if (fileInput.files.length === 0) {
+          alert("Please select an image file.")
+          return
+        }
+
+        const file = fileInput.files[0]
+        const formData = new FormData()
+        formData.append("file", file)
+
+        try {
+          const response = await fetch(
+            "http://127.0.0.1:8000/compress-image/",
+            {
+              method: "POST",
+              body: formData,
+            }
+          )
+
+          if (!response.ok) {
+            throw new Error("Failed to compress image")
+          }
+
+          const data = await response.json()
+          resultsDiv.innerHTML = `
+                    <p>Original Size: ${data.original_size_kb.toFixed(2)} KB</p>
+                    <p>Compressed Size: ${data.compressed_size_kb.toFixed(
+                      2
+                    )} KB</p>
+                    <p>Compression Ratio: ${data.compression_ratio.toFixed(
+                      2
+                    )}</p>
+                    <p><a href="${
+                      data.download_url
+                    }" target="_blank">Download Compressed Image</a></p>
+                `
+        } catch (error) {
+          resultsDiv.innerHTML = `<p style="color: red;">${error.message}</p>`
+        }
+      }
+    </script>
+  </body>
+</html>
