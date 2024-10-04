@@ -23,9 +23,10 @@ This repository contains the deliverables for the Apache Beam data engineering a
 6. Hypothesis Testing
 7. Conclusions and Insights
 
+### Added Live visualization using d3.js
 ![Live Visualization using D3.js](images/ss1.png)
 ![Live Visualization using D3.js](images/ss2.png)
-![Live Visualization using D3.js](images/ss3.png)
+
 
 ### b) Auto EDA with Sweetviz (25% of total marks)
 
