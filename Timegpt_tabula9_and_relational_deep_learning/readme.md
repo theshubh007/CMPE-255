@@ -9,19 +9,19 @@ This assignment explores advanced time series forecasting using **TimeGPT** and 
 ### TimeGPT Tasks
 
 #### 1. Multivariate and Long Horizon Forecasting
-- **Notebook**: 
+- **Notebook**: ```https://colab.research.google.com/drive/1L9OoO8PvGur6Uy_Gt4xNe0FtVxQtI37S?usp=sharing```
 
 #### 2. Fine-tuning TimeGPT
-- **Notebook**: 
+- **Notebook**: ```https://colab.research.google.com/drive/1P5UzoL93_cuf5N5fjvan1piThsLDA6zQ?usp=sharing```
 
 #### 3. Anomaly Detection in Time Series
-- **Notebook**: 
+- **Notebook**: ```https://colab.research.google.com/drive/16PI-TbxqUdlNtJTn0fhRLJVpG7tnxcge?usp=sharing```
 
 #### 4. Energy Forecasting with TimeGPT
-- **Notebook**: 
+- **Notebook**: ```https://colab.research.google.com/drive/1whV6D5HrR1txRzZydsQ7QoVNh9nGwMr_?usp=sharing```
 
 #### 5. Bitcoin Price Prediction
-- **Notebook**: 
+- **Notebook**: ```https://colab.research.google.com/drive/1-IdI29lRldfrFYJkg36-zldo8KBWlDiz?usp=sharing```
 
 ### Tabular Data Tasks
 
