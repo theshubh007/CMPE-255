@@ -32,14 +32,14 @@ This assignment explores advanced time series forecasting using **TimeGPT** and 
 
 #### 6. Synthetic Data Generation with Tabula
 
-- **Notebook**:
+- **Notebook**:[https://colab.research.google.com/drive/1t0zVsQKNdJJCRJkOXToqsHgHXq7kr-fL?usp=sharing](https://colab.research.google.com/drive/1t0zVsQKNdJJCRJkOXToqsHgHXq7kr-fL?usp=sharing)
 
 #### 7. Zero-Shot Inference with Tabula
 
-- **Notebook**:
+- **Notebook**:[https://colab.research.google.com/drive/1Lhx4iMNWKno4fNeokGYr_rjp8CwGwf72?usp=sharing](https://colab.research.google.com/drive/1Lhx4iMNWKno4fNeokGYr_rjp8CwGwf72?usp=sharing)
 
 ## RDL and RelBench Task
 
 #### 8. GNN-based Model for Tabular Prediction
 
-- **Notebook**:
+- **Notebook**: [https://colab.research.google.com/drive/16P8n6Lgtl-TcTv7A5iwAOy2gWkxXKPlh?usp=sharing](https://colab.research.google.com/drive/16P8n6Lgtl-TcTv7A5iwAOy2gWkxXKPlh?usp=sharing)
