@@ -2,6 +2,10 @@
 
 This repository contains implementations of various clustering algorithms using Python in Google Colab notebooks. Each algorithm is implemented in a separate notebook with proper documentation and explanations.
 
+## Youtube Video
+- [Check YouTube Tutorial Here](#youtube-tutorials)
+
+
 ## Notebooks
 
 ### a) K-Means Clustering from Scratch
@@ -10,7 +14,7 @@ This notebook implements the K-Means clustering algorithm from scratch. It inclu
 * Visualization of clusters
 * Evaluation metrics (e.g., inertia, silhouette score)
 
-[Link to K-Means Clustering Colab Notebook](#)
+[Link to K-Means Clustering Colab Notebook](https://colab.research.google.com/drive/1Oujq3hmOWrSQnn8JE0r5UVufsn84-_wW?usp=sharing)
 
 ---
 
@@ -20,7 +24,7 @@ This notebook demonstrates hierarchical clustering using scikit-learn. It covers
 * Dendrogram visualization
 * Comparison of different linkage methods
 
-[Link to Hierarchical Clustering Colab Notebook](#)
+[Link to Hierarchical Clustering Colab Notebook](https://colab.research.google.com/drive/1X9F-8naeVJcThoN-Is-ctmcCDjA4kTNv?usp=sharing)
 
 ---
 
@@ -30,7 +34,7 @@ This notebook explores Gaussian Mixture Models (GMM) for clustering. It includes
 * Visualization of Gaussian components
 * Model selection using BIC
 
-[Link to GMM Clustering Colab Notebook](#)
+[Link to GMM Clustering Colab Notebook](https://colab.research.google.com/drive/1jpDTZRgsfs3J6p21YOo-lfnLE28lBcAT?usp=sharing)
 
 ---
 
@@ -40,7 +44,7 @@ This notebook showcases DBSCAN clustering using the PyCaret library. It covers:
 * DBSCAN model creation and tuning
 * Cluster visualization and interpretation
 
-[Link to DBSCAN Clustering Colab Notebook](#)
+[Link to DBSCAN Clustering Colab Notebook](https://colab.research.google.com/drive/10p_jW_BMxBA5nWGsSB5IHpBI36Algj3i?usp=sharing)
 
 ---
 
@@ -50,7 +54,7 @@ This notebook demonstrates anomaly detection using the PyOD library. It includes
 * Comparison of different anomaly detection algorithms
 * Visualization of detected anomalies
 
-[Link to Anomaly Detection Colab Notebook](#)
+[Link to Anomaly Detection Colab Notebook](https://colab.research.google.com/drive/1nkCbr-gAYW0hvW24_TflyWZ5iig4OSyb?usp=sharing)
 
 ---
 
@@ -60,7 +64,7 @@ This notebook illustrates clustering of time series data using pretrained models
 * Application of pretrained models for feature extraction
 * Clustering of time series based on extracted features
 
-[Link to Time Series Clustering Colab Notebook](#)
+[Link to Time Series Clustering Colab Notebook](https://colab.research.google.com/drive/1S6xPF656cYYtT5_GCnVV9NgHVkkXQ_Ei?usp=sharing)
 
 ---
 
@@ -70,7 +74,7 @@ This notebook demonstrates document clustering using state-of-the-art LLM embedd
 * Generation of document embeddings using LLMs
 * Clustering of documents based on embeddings
 
-[Link to Document Clustering Colab Notebook](#)
+[Link to Document Clustering Colab Notebook](https://colab.research.google.com/drive/1X70bjztWj5wYzpdC9hXF3zfth1dEbcZ5?usp=sharing)
 
 ---
 
@@ -80,7 +84,7 @@ This notebook showcases image clustering using ImageBind LLM embeddings. It cove
 * Generation of image embeddings using ImageBind
 * Clustering of images based on embeddings
 
-[Link to Image Clustering Colab Notebook](#)
+[Link to Image Clustering Colab Notebook](https://colab.research.google.com/drive/1WYA93a2vwQuIl38S6ItLOxjVr6GhuyQ9?usp=sharing)
 
 ---
 
@@ -90,4 +94,4 @@ This notebook demonstrates audio clustering using ImageBind LLM embeddings. It i
 * Generation of audio embeddings using ImageBind
 * Clustering of audio samples based on embeddings
 
-[Link to Audio Clustering Colab Notebook](#)
+[Link to Audio Clustering Colab Notebook](https://colab.research.google.com/drive/1S7PV2SN1nDDwouo2j-dphoiSTe0_Gx0b?usp=sharing)
