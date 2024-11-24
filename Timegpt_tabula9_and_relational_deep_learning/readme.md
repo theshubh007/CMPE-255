@@ -4,6 +4,7 @@
 
 This assignment explores advanced time series forecasting using **TimeGPT** and tabular data analysis techniques. The project consists of nine tasks, each implemented in a separate Colab notebook. The goal is to demonstrate various applications of TimeGPT in time series analysis and explore tabular data modeling using **Tabula** and **RDL (Relational Deep Learning)**.
 
+- **Notebook** [Youtube Video](https://www.youtube.com/watch?v=wGncPAr-wr0)
 ## Tasks
 
 ## TimeGPT Tasks
