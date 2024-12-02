@@ -6,6 +6,9 @@ This Assignment demonstrates various dimensionality reduction techniques using P
  2. Adv dimensionality reduction on tabular dataset [google collab]()
  3. Adv dimensionality reduction using Databricks [google collab]()
 
+### [Video link]()
+
+A detailed video walkthrough of the Colab code is available, explaining each technique, its implementation, and the results obtained.
 
 ## Techniques Implemented
 
@@ -32,7 +35,5 @@ This Assignment demonstrates various dimensionality reduction techniques using P
 ### Medical Datasets
 - **Medical datasets**
 
-### [Video link]()
 
-A detailed video walkthrough of the Colab code is available, explaining each technique, its implementation, and the results obtained.
 
