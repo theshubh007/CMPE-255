@@ -13,7 +13,7 @@ This repository contains the deliverables for the **Short Story Assignment**, su
 
 ### 2. **Slide Deck**
 - Link: [SlideShare Presentation Link](https://www.slideshare.net/secret/i5Dm4NtwedyqJ9)
-- File: [Slides (PDF/PPT)](./artifacts/slides.pdf)
+- File: [Slides (PPT)](https://github.com/theshubh007/CMPE-255/blob/main/ShortStoryAssignment/Automatic%20Detection%20of%20Relevant%20Info.pptx)
 
 ### 3. **Video Presentation**
 - Link: [Video Presentation Link](https://youtu.be/8sLCgRXNPbI)
