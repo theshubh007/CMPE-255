@@ -2,12 +2,12 @@
 
 This Assignment demonstrates various dimensionality reduction techniques using Python and Databricks. It includes implementations of both linear and non-linear methods, applied to image and tabular datasets.
 
- 1. Adv dimensionality reduction on image dataset [google collab]()
- 2. Adv dimensionality reduction on tabular dataset [google collab]()
- 3. Adv dimensionality reduction using Databricks [google collab]()
+ 1. Adv dimensionality reduction on image dataset [google collab](https://colab.research.google.com/drive/1bzN3vPQ2jM-3POhERP9O-FccQCC1W2Bi?usp=sharing)
+ 2. Adv dimensionality reduction on tabular dataset [google collab](https://colab.research.google.com/drive/1gywsfVsXRoherjGY9a5nkdsEMsduIXvd?usp=sharing)
+ 3. Adv dimensionality reduction using Databricks [google collab](https://colab.research.google.com/drive/13SGQApxsodkMHq5VfTPr5tBbzGkhzpxt?usp=sharing)
 
 ### Explanation Video 
-[Video link]()
+[Video link](https://youtu.be/x16bfmmCqSQ)
 A detailed video walkthrough of the Colab code is available, explaining each technique, its implementation, and the results obtained.
 
 ## Techniques Implemented
