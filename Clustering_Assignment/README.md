@@ -3,7 +3,7 @@
 This repository contains implementations of various clustering algorithms using Python in Google Colab notebooks. Each algorithm is implemented in a separate notebook with proper documentation and explanations.
 
 
-## Notebooks
+## Google Colab Notebooks
 
 ### a) K-Means Clustering from Scratch
 This notebook implements the K-Means clustering algorithm from scratch. It includes:
