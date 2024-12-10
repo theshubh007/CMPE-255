@@ -2,9 +2,6 @@
 
 This repository contains implementations of various clustering algorithms using Python in Google Colab notebooks. Each algorithm is implemented in a separate notebook with proper documentation and explanations.
 
-## Youtube Video
-- [Check YouTube Tutorial Here](#youtube-tutorials)
-
 
 ## Notebooks
 
@@ -93,5 +90,10 @@ This notebook demonstrates audio clustering using ImageBind LLM embeddings. It i
 * Audio preprocessing and feature extraction
 * Generation of audio embeddings using ImageBind
 * Clustering of audio samples based on embeddings
+
+## Youtube Video
+- [Check YouTube Tutorial Here](https://www.youtube.com/watch?v=YxhPr77no5o)
+
+
 
 [Link to Audio Clustering Colab Notebook](https://colab.research.google.com/drive/1S7PV2SN1nDDwouo2j-dphoiSTe0_Gx0b?usp=sharing)
