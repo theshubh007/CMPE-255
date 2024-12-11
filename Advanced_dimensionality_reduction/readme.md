@@ -7,7 +7,7 @@ This Assignment demonstrates various dimensionality reduction techniques using P
  3. Adv dimensionality reduction using Databricks [google collab](https://colab.research.google.com/drive/13SGQApxsodkMHq5VfTPr5tBbzGkhzpxt?usp=sharing)
 
 ### Explanation Video 
-[Video link](https://youtu.be/x16bfmmCqSQ)
+[Youtube Video link](https://youtu.be/x16bfmmCqSQ)
 A detailed video walkthrough of the Colab code is available, explaining each technique, its implementation, and the results obtained.
 
 ## Techniques Implemented
