@@ -5,7 +5,7 @@ This repository contains implementations of various clustering algorithms using 
 ## Youtube Video
 - [Check YouTube Tutorial Here](https://youtu.be/kYr0UYG1zTY)
   
-## Google Colab Notebooks
+## Google Colab Notebooks available here:
 
 ### a) K-Means Clustering from Scratch
 This notebook implements the K-Means clustering algorithm from scratch. It includes:
