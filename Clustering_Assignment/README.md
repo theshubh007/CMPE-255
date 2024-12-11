@@ -3,7 +3,7 @@
 This repository contains implementations of various clustering algorithms using Python in Google Colab notebooks. Each algorithm is implemented in a separate notebook with proper documentation and explanations.
 
 ## Youtube Video
-- [Check YouTube Tutorial Here]([https://www.youtube.com/watch?v=YxhPr77no5o](https://youtu.be/kYr0UYG1zTY))
+- [Check YouTube Tutorial Here](https://youtu.be/kYr0UYG1zTY)
   
 ## Google Colab Notebooks
 
